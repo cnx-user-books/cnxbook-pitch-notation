@@ -1,0 +1,70 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Notes on the Staff</title>
+  <metadata>
+  <md:content-id>m22934</md:content-id><md:title>The Notes on the Staff</md:title>
+  <md:abstract>This module introduces symbols used in music to designate pitch.</md:abstract>
+  <md:uuid>c5ca8b28-7879-493c-8125-2b26ea2a5454</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1171421796098">Music is principally written with symbols specifying pitch and symbols specifying timing. Symbols indicating pitch give instructions on whether sounds are high or low or anywhere in between. Symbols indicating timing provide instructions on when and how long to play or sing a sound. These symbols are combined in ingenuous ways for music notation. When you master the fundamentals of music literacy, you will be able to read much of the music performed in the world today. The notation is commonly termed “Western Musical Notation.”</para>
+    <para id="id1171421796110">In this module we will present pitch notation. “Pitch” is a word we use for indicating where a note lies in a spectrum or range of musical tones. Musical pitches are designated by an alphabet letter or sometimes by a solfège syllable.</para>
+    <para id="id1171421805725">The musical alphabet uses letters A B C D E F G. Common solfège syllables are: Do Re Mi Fa Sol La Ti. In many countries the solfège syllables are employed to designate pitches. For instance, in France, “Do” is the name for “C,“ “Re” for “D,” etc. This system of labeling pitches is termed “fixed Do,” since Do always designates the note C. In America we most commonly designate pitches by their alphabet letter name. </para>
+    <para id="id1171421797920">The musical alphabet repeats throughout the range or register of music. For instance, notice that the piano keyboard below has a repeating musical alphabet (given below the keyboard in Figure 1): </para>
+    <figure id="id1171421793982"><title>A Portion of the Piano Keyboard</title><media id="id1171421793982_media" alt="">
+		<image mime-type="image/png" src="../../media/Picture 1.png" id="id1171421793982__onlineimage" height="111" width="444"/>
+	</media>
+	<caption>The graphics of the keyboard in Figure 1 are modified from Tobias R. – <link url="http://commons.wikimedia.org/wiki/User:Metoc"><emphasis effect="underline">Metoc</emphasis></link>, <link url="http://en.wikipedia.org/wiki/File:Klaviatur-3-en.svg">http://en.wikipedia.org/wiki/File:Klaviatur-3-en.svg</link> (Accessed 01 May 09). It is licensed for public use under the Creative Commons Attribution License.</caption></figure>
+    
+    <para id="id1171421904255">Pitches furthest on the left are lower sounding. Higher and higher pitches are sounded by moving up the piano keyboard in the right hand direction.</para>
+    <para id="id1171421904260">Pitches are represented by “notes” placed on a “staff.” The most common staff in musical notation is one with five lines and four spaces.</para>
+    <para id="id1171421877990">
+      <figure id="id1171421877994"><title>A Staff</title><media id="id1171421877994_media" alt="">
+		<image mime-type="image/png" src="../../media/staff_line_space1.png" id="id1171421877994__onlineimage" height="175" width="510"/>
+	</media>
+</figure>
+    </para>
+    <para id="id1171421794407">The lower part of the staff is for lower notes; the higher portion is for higher notes. The staff by itself, however, doesn’t provide us the information we need to designate the position of a pitch. There are many more pitches in most music than just those provided by these five lines and four spaces. For the wider range of musical pitches we need a group of musical symbols called “clefs.” Some of the clefs used in music notation matched the names given to voices: soprano, mezzo soprano, alto, tenor, bass. For now we will just introduce two of the most common clefs--treble and bass.</para>
+    <para id="id1171421894800">The treble clef or G clef designates the staff for higher pitched instruments such as flute, trumpet, or violin. The clef circles around a line that is G, which is the second line from the bottom. The blue letter G doesn't usually appear in music notation. The red note on the treble staff is a G. The bass or F clef designates a staff reserved for lower pitched instruments such as bassoon, tuba, or cello. The left most portion of the clef starts on the F line--4th line from the bottom. The F line also appears between the two dots to the right of the clef. The red note on the bass staff is an F.</para>
+    <figure id="id1171421878202">
+      <media id="id1171421878202_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3.png" id="id1171421878202__onlineimage" height="144" width="506"/>
+      </media>
+    </figure>
+    <para id="id1171421794222">The treble and bass staffs are often paired in piano music with the "grand staff" or "piano staff." The grand staff features a brace, bar and then the two staffs.</para>
+    <para id="id1171421794228">
+      <figure id="id1171421794232"><title>The Grand or Piano Staff</title><media id="id1171421794232_media" alt="">
+		<image mime-type="image/png" src="../../media/GrandStaff.png" id="id1171421794232__onlineimage" height="329" width="312"/>
+	</media>
+</figure>
+    </para>
+    <para id="id1171421906376">Description The grand staff is used for keyboard instruments such as piano, organ, and harpsichord.</para>
+    <para id="id1171421906381">Notice the position of “middle C” on the grand staff. It is below the treble staff and above the bass staff. This note is called middle C because it is the C that is located in the middle of the piano keyboard.</para>
+    <para id="id1171421906389">This video gives a further demonstration of the location of middle C and introduces the piano keyboard:</para>
+    <para id="id1171421911906">
+      <emphasis effect="bold">Introduction to the piano keyboard (11 minutes) </emphasis>
+      <link url="http://terryewell.com/tu/theory/TheoryIntro.ram">
+        <emphasis effect="bold">RealPlayer</emphasis>
+      </link>
+      <link url="http://terryewell.com/tu/theory/TheoryIntro.ram"/>
+      <emphasis effect="bold">| </emphasis>
+      <link url="http://terryewell.com/tu/theory/TheoryIntro.wmv">
+        <emphasis effect="bold">Windows Media </emphasis>
+      </link>
+      <emphasis effect="bold">| </emphasis>
+      <link url="http://terryewell.com/tu/theory/TheoryIntro.mp4">
+        <emphasis effect="bold">iPod or QuickTime Player</emphasis>
+      </link>
+      <link url="http://terryewell.com/tu/theory/TheoryIntro.mp4"/>
+      <emphasis effect="bold">(mp4)</emphasis>
+    </para>
+    <para id="id1171421901621">You will also notice that a short line segment appears in the middle of the note in Figure 4. This short line is called a “ledger line.” These added lines are a bit similar to ladders. They are extensions of the staff, either above or below, so that additional pitches may be given in the music. Figure 5 below gives a high C above the treble staff and a low C below the bass staff.</para>
+    <para id="id1171421901631">
+      <figure id="id1171421901635"><media id="ledgelines" alt="Example of Ledger Lines">
+		<image mime-type="image/png" src="../../media/Ledgerline.png"/>
+	</media>
+</figure>
+    </para>
+  </content>
+</document>

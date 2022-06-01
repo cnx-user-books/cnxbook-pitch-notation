@@ -1,0 +1,19 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11353</md:content-id>
+    <md:title>Pitch Notation</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>94a265ba-8844-49de-b951-8d4be7617635</md:uuid>
+<md:slug>pitch-notation</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m10880"/>
+    <col:module document="m22934"/>
+    <col:module document="m10943"/>
+    <col:module document="m10866"/>
+    <col:module document="m10867"/>
+    <col:module document="m10862"/>
+    <col:module document="m11118"/>
+  </col:content>
+</col:collection>
