@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mark A. Lackey">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11353</md:content-id>
     <md:title>Pitch Notation</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>94a265ba-8844-49de-b951-8d4be7617635</md:uuid>
-<md:slug>pitch-notation</md:slug>
-</metadata>
+    <md:slug>pitch-notation</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m10880"/>
     <col:module document="m22934"/>
